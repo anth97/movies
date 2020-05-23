@@ -1,0 +1,4 @@
+#Thu May 21 12:38:53 PET 2020
+base.0=/home/andy/projects-flutter/AppPeliculas/peliculas/build/app/intermediates/transforms/r8/release/0/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
